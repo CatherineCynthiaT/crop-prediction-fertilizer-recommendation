@@ -34,17 +34,21 @@ Datasets for this project, available from Kaggle, include:
    Collected datasets for crop prediction and fertilizer recommendation from Kaggle.
 
 2. **Data Preprocessing:**
+
    **Crop Prediction:** Handled missing values, encoded categorical columns, and performed exploratory data analysis to understand feature distributions and correlations.
+
    **Fertilizer Recommendation:** Checked for missing values, encoded categorical columns, and conducted exploratory data analysis to visualize fertilizer usage and feature relationships.
 
-3. **Model Development:**
+4. **Model Development:**
+
    **Crop Prediction:** Trained various classifiers (Random Forest, K-Nearest Neighbors, Support Vector Machine, Decision Tree) and evaluated their performance. The Random Forest Classifier achieved the highest accuracy of 99%.
+
    **Fertilizer Recommendation:** Trained classifiers (Random Forest, K-Nearest Neighbors, Support Vector Machine, Decision Tree) and assessed their effectiveness. The Support Vector Classifier provided the best performance with an accuracy of 94%.
 
-4. **Model Evaluation:**
+6. **Model Evaluation:**
    Evaluated models using metrics such as accuracy, precision, recall, and F1-score. The Random Forest model showed the highest accuracy for crop prediction, while the Support Vector Classifier excelled in fertilizer recommendation.
 
-5. **Deployment:**
+7. **Deployment:**
    Deployed the models using Streamlit for real-time predictions and recommendations.
 
 **Results and Evaluation Criterion:**
