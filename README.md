@@ -15,11 +15,6 @@ Datasets for this project, available from Kaggle, include:
 - Feature Engineering
 - Classification Algorithms
 
-**Technologies:**
-- Python
-- Jupyter
-- Streamlit
-
 **Python Packages Used:**
 - Pandas
 - NumPy
@@ -43,9 +38,7 @@ Datasets for this project, available from Kaggle, include:
 
 4. **Model Evaluation:**
    Evaluated models using metrics such as accuracy, precision, recall, and F1-score. The Random Forest model showed the highest accuracy for crop prediction, while the Support Vector Classifier excelled in fertilizer recommendation.
-
-5. **Deployment:**
-   Deployed the models using Streamlit for real-time predictions and recommendations.
+   
 
 **Results and Evaluation Criterion:**
 - **Crop Prediction:** The Random Forest Classifier performed best with an accuracy of 99%.
